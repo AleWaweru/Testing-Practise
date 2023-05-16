@@ -1,0 +1,23 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "This is a project intended to checks the DRY, KISS and YAGNI best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleWaweru/Testing-Practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleWaweru/Testing-Practise/issues"
+  },
+  "homepage": "https://github.com/AleWaweru/Testing-Practise#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
